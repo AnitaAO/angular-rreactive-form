@@ -1,0 +1,27 @@
+form{
+  justify-content: center;
+  align-items: center;
+  /* margin: 70px 52px; */
+  margin: 4pc;
+}
+
+.form-group{
+  margin-top: 8px;
+}
+
+input{
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid;
+}
+
+button{
+
+  padding: 16px 48px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  margin-top: 16px;
+}
